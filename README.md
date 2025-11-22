@@ -1,1 +1,1 @@
-    ссылка на репозиторий https://github.com/Skaizo-0/ono-tebe-nado
+Ссылка на репозиторий https://github.com/Skaizo-0/ono-tebe-nado
